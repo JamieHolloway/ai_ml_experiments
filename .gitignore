@@ -110,8 +110,5 @@ logs/
 # Data Files
 *.csv
 *.tsv
-*.json
 
-# Docker and Build Artifacts
-Dockerfile
 build/

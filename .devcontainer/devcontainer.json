@@ -1,0 +1,38 @@
+{
+    "name": "AI-ML_Development",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".",
+        "args": {
+            "BASE_IMAGE": "nvcr.io/nvidia/pytorch:24.03-py3"
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.defaultProfile.linux": "bash",
+                "workbench.colorTheme": "Default Dark+"
+            },
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "ms-toolsai.datawrangler"
+            ]
+        }
+    },
+    "postCreateCommand": "pip install --upgrade pip && pip install -r requirements.txt",
+    "runArgs": [
+        "--name", "AI-ML_dev_cuda",
+        "--gpus",
+        "all",
+        "--network",
+        "bridge",
+        "--env",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "--env",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility,video",
+        "--env",
+        "CUDA_HOME=/usr/local/cuda"
+    ]
+    // "workspaceFolder": "/workspace"
+}
