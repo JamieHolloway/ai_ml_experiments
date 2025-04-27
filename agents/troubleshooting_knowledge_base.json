@@ -1,0 +1,166 @@
+{
+    "slow_internet": {
+        "symptom": "My internet is very slow.",
+        "solution": "Try restarting your router and checking your connection settings."
+    },
+    "app_crashing": {
+        "symptom": "The app keeps crashing on startup.",
+        "solution": "Update the app to the latest version and restart your device."
+    },
+    "battery_drain": {
+        "symptom": "My phone battery drains very quickly.",
+        "solution": "Lower your screen brightness and close background apps."
+    },
+    "screen_flickering": {
+        "symptom": "My screen keeps flickering randomly.",
+        "solution": "Check for loose cables or update your display drivers."
+    },
+    "printer_not_working": {
+        "symptom": "The printer won't print anything.",
+        "solution": "Make sure it’s connected properly and try reinstalling the printer drivers."
+    },
+    "bluetooth_not_connecting": {
+        "symptom": "Bluetooth devices won’t connect.",
+        "solution": "Turn Bluetooth off and on again and re-pair the devices."
+    },
+    "overheating_laptop": {
+        "symptom": "My laptop gets very hot quickly.",
+        "solution": "Clean the vents and ensure the fans are working properly."
+    },
+    "frozen_computer": {
+        "symptom": "My computer is completely frozen.",
+        "solution": "Try a hard reboot by holding the power button for 10 seconds."
+    },
+    "no_sound": {
+        "symptom": "There’s no sound coming from my computer.",
+        "solution": "Check your sound settings and ensure your speakers are plugged in."
+    },
+    "wifi_not_found": {
+        "symptom": "My device can’t find any Wi-Fi networks.",
+        "solution": "Restart your router and make sure Wi-Fi is enabled on your device."
+    },
+    "email_not_syncing": {
+        "symptom": "My email app isn’t syncing.",
+        "solution": "Check your internet connection and re-enter your email credentials."
+    },
+    "black_screen": {
+        "symptom": "My computer turns on but the screen stays black.",
+        "solution": "Check your monitor cables and try a different display."
+    },
+    "keyboard_not_working": {
+        "symptom": "My keyboard is not responding.",
+        "solution": "Reconnect or replace the keyboard and update drivers if necessary."
+    },
+    "mouse_lag": {
+        "symptom": "The mouse movement is laggy and unresponsive.",
+        "solution": "Replace the batteries or update the mouse drivers."
+    },
+    "slow_startup": {
+        "symptom": "My computer takes forever to start up.",
+        "solution": "Disable unnecessary startup programs and scan for malware."
+    },
+    "camera_not_working": {
+        "symptom": "My webcam isn't detected.",
+        "solution": "Ensure privacy settings allow access and reinstall the camera driver."
+    },
+    "notifications_not_showing": {
+        "symptom": "I’m not receiving any notifications on my phone.",
+        "solution": "Check app notification settings and ensure Do Not Disturb is off."
+    },
+    "files_not_downloading": {
+        "symptom": "I can’t download any files from the internet.",
+        "solution": "Check your internet connection and clear your browser’s cache."
+    },
+    "playback_issues": {
+        "symptom": "Videos are buffering or not playing properly.",
+        "solution": "Lower the video quality or check your internet speed."
+    },
+    "password_not_accepted": {
+        "symptom": "My password isn’t being accepted even though it's correct.",
+        "solution": "Reset your password and ensure Caps Lock isn’t enabled."
+    },
+    "system_update_fail": {
+        "symptom": "System updates keep failing.",
+        "solution": "Clear update cache and try manually installing the update."
+    },
+    "unresponsive_app": {
+        "symptom": "An app freezes and doesn’t respond.",
+        "solution": "Force close the app and reopen it."
+    },
+    "screen_rotation_issue": {
+        "symptom": "My phone screen won’t rotate automatically.",
+        "solution": "Enable auto-rotate in the settings."
+    },
+    "voice_assistant_not_listening": {
+        "symptom": "The voice assistant isn’t responding to commands.",
+        "solution": "Check microphone permissions and internet connection."
+    },
+    "system_clock_wrong": {
+        "symptom": "My device shows the wrong time.",
+        "solution": "Set the time to update automatically using the internet."
+    },
+    "no_internet_access": {
+        "symptom": "Wi-Fi is connected but there’s no internet access.",
+        "solution": "Restart the router and check with your ISP."
+    },
+    "account_locked": {
+        "symptom": "My account is locked and I can't log in.",
+        "solution": "Follow the account recovery process and reset your password."
+    },
+    "device_not_charging": {
+        "symptom": "My device won’t charge when plugged in.",
+        "solution": "Try a different charger and inspect the charging port."
+    },
+    "contacts_missing": {
+        "symptom": "Some of my contacts have disappeared.",
+        "solution": "Check if contacts are synced and restore from a backup."
+    },
+    "gps_not_accurate": {
+        "symptom": "My GPS location is wrong or inaccurate.",
+        "solution": "Calibrate your GPS and check location settings."
+    },
+    "storage_full": {
+        "symptom": "My device says storage is full.",
+        "solution": "Delete unnecessary files and uninstall unused apps."
+    },
+    "screen_burn_in": {
+        "symptom": "I notice ghost images on my screen.",
+        "solution": "Use screen savers and enable dark mode."
+    },
+    "app_updates_stuck": {
+        "symptom": "App updates are stuck at 'Installing'.",
+        "solution": "Clear the app store cache and try again."
+    },
+    "microphone_not_working": {
+        "symptom": "My microphone isn’t picking up any sound.",
+        "solution": "Check input settings and ensure the mic isn’t muted."
+    },
+    "wrong_language": {
+        "symptom": "My device switched to another language.",
+        "solution": "Change the system language back in settings."
+    },
+    "headphones_not_detected": {
+        "symptom": "Headphones plugged in but no sound is coming through.",
+        "solution": "Clean the headphone jack and check audio settings."
+    },
+    "duplicate_photos": {
+        "symptom": "I have many duplicate photos cluttering my gallery.",
+        "solution": "Use a duplicate photo remover app to clean up."
+    },
+    "device_random_restarts": {
+        "symptom": "My device restarts by itself randomly.",
+        "solution": "Check for software updates and scan for malware."
+    },
+    "vpn_not_connecting": {
+        "symptom": "My VPN won’t connect.",
+        "solution": "Check VPN settings and try a different server location."
+    },
+    "cloud_sync_failed": {
+        "symptom": "My files aren't syncing to the cloud.",
+        "solution": "Ensure you are signed in and check available storage."
+    },
+    "browser_crashing": {
+        "symptom": "My web browser keeps crashing.",
+        "solution": "Clear browser cache and disable unnecessary extensions."
+    }
+}

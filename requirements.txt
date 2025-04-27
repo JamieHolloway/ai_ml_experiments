@@ -16,6 +16,7 @@ requests
 scikit-learn
 scipy
 seaborn
+spacy
 torch
 torchvision
 transformers
