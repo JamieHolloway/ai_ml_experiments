@@ -8,6 +8,7 @@ flash_attn
 huggingface_hub
 ipywidgets
 matplotlib
+nltk
 numpy
 pandas
 peft
